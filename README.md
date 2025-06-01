@@ -1,71 +1,41 @@
-<!-- ATTENTION-GRABBING BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20Welcome%20to%20Hulto's%20Realm!%20✨&fontSize=45&fontAlignY=40&desc=🔐%20Security%20Sorcery%20%7C%20Golang%20%26%20Rust%20Wizardry%20%7C%20Fun%20Guaranteed%20🪄&descAlignY=70&descAlign=62"/>
-</p>
+# 👋 Hey there, I'm Hulto!
 
-<!-- ANIMATED INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=900&color=FEC53B&background=00000000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+%F0%9F%A7%99%EF%B8%8F+Hulto%2C+Principal+Security+Engineer!;I+cast+spells+in+Golang+and+Rust+%F0%9F%A7%91%F0%9F%AA%84;Welcome+to+my+magical+security+dojo!+%E2%9C%A8" alt="Typing SVG" />
-</p>
+![banner](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:D3EEF4,40:F1EEC8,100:F3A46C&text=Hulto&desc=Red%20Teamer%20|%20Developer%20|%20IaC%20enjoyer&descAlign=50&descAlignY=79&fontColor=00)
 
-<!-- BADGES OF MAGIC -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Security%20Wizard-%F0%9F%A7%99%EF%B8%8F%20%F0%9F%94%91-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fun%20Level-Over%209%2C000%2B-%23FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Realm%20Master-%F0%9F%91%BB%20%F0%9F%A7%AA-FFD700?style=for-the-badge"/>
-</p>
 
----
+## 🚩 About Me
 
-## 🎉 About Me
+- 🛡️ **Security Engineer** passionate about keeping systems safe & sound  
+- 🏗️ **Infrastructure as Code** fan – automate all the things!  
+- 🕵️‍♂️ **Red Teaming** enthusiast – breaking things (ethically) for fun and profit  
+- 💻 Love to code, tinker, and build  
 
-- 🧙‍♂️ **Principal Security Engineer** — protecting realms from digital dragons
-- 🛡️ Fluent in **Golang** and **Rust** (my magic wands)
-- 🦸‍♂️ Turning cyber monsters into harmless pixels
-- 🧩 Believe security should be creative, colorful, and a little bit weird
-- 🌈 Fun fact: My code sometimes wears a wizard hat
+## 🌐 Find me online
 
----
+- 🐦 [@hultoko on X (Twitter)](https://x.com/hultoko)
 
-## 🦄 Featured Spellbook
-
-[![realm](https://github-readme-stats.vercel.app/api/pin/?username=spellshift&repo=realm&theme=tokyonight)](https://github.com/spellshift/realm)
-
----
-
-## 📈 Magical Metrics
+## 📊 Fun GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hulto&show_icons=true&theme=tokyonight&hide=stars" alt="hulto's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hulto&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hulto&show_icons=true&theme=tokyonight&hide_title=true" alt="Hulto's GitHub stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hulto&layout=compact&theme=tokyonight" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulto&layout=compact&theme=tokyonight&langs_count=8&hide=java,javascript,html,css,scss" alt="Top Languages" height="165">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hulto&theme=rogue" alt="Activity Graph" />
 </p>
 
----
 
-## 🧙‍♂️ Fun Facts (Roll for insight!)
-
-- 🎲 I once debugged a race condition with a rubber duck and a wizard’s staff. Both helped.
-- 🏰 My favorite spell: `cargo build --release` (with no errors) and `go run .` (with extra sparkle)
-- 👾 I’ve been known to turn bugs into features... with style!
-- 🎩 My commit messages sometimes rhyme
-
----
-
-## 🧪 The Realm's Rules
-
-> “No security without sorcery. No code without chaos. Fun required!” — Hulto, probably
-
----
+## 🔥 Fun Stuff & Badges
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Wizard casting sparkles" width="25%" />
+  <img src="https://komarev.com/ghpvc/?username=hulto&style=flat-square&color=brightgreen" alt="Visitor Badge"/>
+  <img src="https://img.shields.io/badge/Red%20Teamer-%23FF1744?style=flat-square&logo=skyliner&logoColor=white" alt="Red Teamer Badge"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-%235835CC?style=flat-square&logo=terraform&logoColor=white" alt="IaC Terraform Badge"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/Terminal%20Enjoyer-%23FFFFFF?style=flat-square&logo=gnubash&logoColor=black" alt="Terminal Badge"/>
+  <img src="https://img.shields.io/badge/Rust%20Fan-%23fc9d03?style=flat-square&logo=rust&logoColor=black" alt="Terminal Badge"/>
+  <img src="https://badges.pufler.dev/years/hulto?style=flat-square&color=orange" alt="Years on GitHub Badge"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>✨ Thanks for visiting my magical security realm! Come for the code, stay for the fun. PRs welcome! ✨</b>
-</p>
+### 🎉 Thanks for stopping by! May your logs be clean and your exploits ethical. 🚀
